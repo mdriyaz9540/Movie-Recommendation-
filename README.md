@@ -44,7 +44,9 @@ This is a great portfolio project for showcasing **Data Science, NLP, and Machin
 
 6. **Recommendation Function:**  
    - Built a function to input a movie title and get top 5 similar movies.
+📌 Author
 
+Mohd Riyaz
 
 
 ```bash
