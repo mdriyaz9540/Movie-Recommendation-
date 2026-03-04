@@ -14,7 +14,6 @@ This is a great portfolio project for showcasing **Data Science, NLP, and Machin
 - NumPy  
 - Scikit-learn  
 - NLTK (Porter Stemmer)  
-- Streamlit (optional for web app)  
 
 ---
 
