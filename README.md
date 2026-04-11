@@ -105,7 +105,7 @@ This project can be deployed using Streamlit Cloud.
 
 ## 👨‍💻 Author
 
-Your Name
+Mohd Riyaz
 
 ---
 
