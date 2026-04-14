@@ -47,20 +47,6 @@ This project uses the **TMDB 5000 Movie Dataset** which contains information abo
 
 ---
 
-## 📂 Project Structure
-
-```
-movie_recommender/
-│
-├── app.py
-├── movies.pkl
-├── similarity.pkl
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ▶️ How to run locally
 
 1. Clone the repository:
